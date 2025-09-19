@@ -1,8 +1,8 @@
-# Hi, I'm Linh 👋 
 
----
+### Hi, I'm Linh ☺️ <br/>Nice to see you here.<br/>Here's a bit about me.
+<br/>
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
@@ -13,22 +13,15 @@
 
 ---
 
-## 🚀 Projects
-- 🔭 I’m currently working on Meal Planner App
-  Plan meals, manage groceries, and explore AI-powered recipe suggestions.
-  Github link will be public after my first deployment and features will be added by sprints.
-  I'm doing agile/scrum for this (Yes! even on my personal project).
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+### 🚀 Projects
+🫐 I’m currently working on Meal Planner App:<br/>
+Plan meals, manage groceries, and explore AI-powered recipe suggestions.<br/>
+Github link will be public after my first deployment and features will be added by sprints.<br/>
+I'm doing agile/scrum for this (Yes! even on my personal project).<br/>
 
 ---
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 - Dive in JS/TS/React/Next  
 - CI/CD pipelines with Docker + AWS  
 - Algorithms & data structures
@@ -36,22 +29,5 @@
 
 ---
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 [LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:linh.lkl@outlok.com)
-
----
-
-<!--
-**linfinidev/linfinidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
