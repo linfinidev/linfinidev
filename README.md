@@ -1,6 +1,4 @@
-
-### Hi, I'm Linh ☺️ <br/>Nice to see you here.<br/>Here's a bit about me.
-<br/>
+![Header](./github-header-banner.png)
 
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
