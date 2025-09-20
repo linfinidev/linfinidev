@@ -37,5 +37,5 @@ I'm doing agile/scrum for this (Yes! even on my personal project).<br/>
 
 ### 📫 How to reach me:
 [LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:linh.lkl@outlok.com)
-Portfolio: linfini.vercel.app
-Blog: hackmd.io/@linfini
+<br/><br/>Portfolio: [linfini.vercel.app](https://linfini.vercel.app)
+<br/>Blog: [hackmd.io/@linfini](https://hackmd.io/@linfini)
