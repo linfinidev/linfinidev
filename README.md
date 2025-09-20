@@ -1,8 +1,8 @@
 ![Header](./github-header-banner.png)
 
-![Profile views](https://komarev.com/ghpvc/?username=linfinidev&label=Total%20hello&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=linfinidev&label=High-fives%20given&color=0e75b6&style=flat)
 
-### Nice to see you here!
+### Nice to see you here! 🖖
 
 👩‍💻 I'm a frontend engineer, but do backend sometimes. I love building things and solving problem along the way. I re-arrange things (decluttering at the same time) once in a while (work-life equally).
 
@@ -16,6 +16,12 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+
+<b>I'm currently looking for any of these roles:
+- Mid Frontend
+- Junior Backend (accept junior role salary)
+- Junior Fullstack (accept junior role salary)
+</b>
 
 ---
 
