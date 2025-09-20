@@ -1,5 +1,11 @@
 ![Header](./github-header-banner.png)
 
+![Profile views](https://komarev.com/ghpvc/?username=linfinidev&label=Total%20hello&color=0e75b6&style=flat)
+
+### Nice to see you here!
+
+👩‍💻 I'm a frontend engineer, but do backend sometimes. I love building things and solving problem along the way. I re-arrange things (decluttering at the same time) once in a while (work-life equally).
+
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript)
@@ -31,3 +37,5 @@ I'm doing agile/scrum for this (Yes! even on my personal project).<br/>
 
 ### 📫 How to reach me:
 [LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:linh.lkl@outlok.com)
+Portfolio: linfini.vercel.app
+Blog: hackmd.io/@linfini
