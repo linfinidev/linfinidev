@@ -27,6 +27,7 @@ I'm doing agile/scrum for this (Yes! even on my personal project).<br/>
 - CI/CD pipelines with Docker + AWS  
 - Algorithms & data structures
 - NestJS (trying to write blogs to share what I learned)
+- A bit of cybersecurity daily
 
 ---
 
