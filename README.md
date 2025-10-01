@@ -1,10 +1,10 @@
-![Header](./github-header-banner3.png)
+![Header](./github-header-banner4.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=linfinidev&label=High-fives%20given&color=0e75b6&style=flat)
 
 ### Nice to see you here! 🖖
 
-👩‍💻 I'm a frontend engineer, but do backend sometimes. I love building things and solving problem along the way. I re-arrange things (decluttering at the same time) once in a while (work-life equally).
+👩‍💻 I'm a frontend engineer, but do backend sometimes. I love building things and solving problem along the way. I also like re-arranging things (decluttering at the same time) once in a while (work-life equally).
 
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
@@ -38,6 +38,7 @@ I'm doing agile/scrum for this (Yes! even on my personal project).<br/>
 - Algorithms & data structures
 - NestJS (trying to write blogs to share what I learned)
 - A bit of cybersecurity daily
+- A bit of ML daily
 
 ---
 
