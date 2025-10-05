@@ -17,11 +17,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
-<b>I'm currently looking for any of these roles:
+<!-- <b>I'm currently looking for any of these roles:
 - Mid Frontend
 - Junior Backend (accept junior role salary)
 - Junior Fullstack (accept junior role salary)
-</b>
+</b> -->
 
 ---
 
